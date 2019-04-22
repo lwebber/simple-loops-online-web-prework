@@ -21,6 +21,7 @@ end
 def times_iterator(number_of_rspetimes)
   # code your solution here using the "times" keyword
   phrase = "Welcome to Flatiron School's Web Development Course!"
+  puts phrase.times(number_of_rspetimes)
   
 end
 
